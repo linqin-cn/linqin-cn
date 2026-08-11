@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,vue,js,html,css,git,maven,idea&perline=11" alt="技术栈">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,linux,git,maven,idea,html,css,js,vue,nginx,react&perline=7" alt="技术栈">
 
 </div>
 
